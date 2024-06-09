@@ -1,0 +1,14 @@
+.nav-bar {
+  display: flex;
+  gap: 5px;
+  position: relative;
+}
+.nav-bar .state {
+  position: absolute;
+  top: -7px;
+  right: -20px;
+  background-color: rgb(88, 73, 73) !important;
+  color: white;
+  padding: 3px 10px 3px 10px;
+  border-radius: 50%;
+}/*# sourceMappingURL=navbar.css.map */

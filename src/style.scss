@@ -1,0 +1,22 @@
+.icons {
+    position: relative;
+    display: inline-block;
+
+    .asd {
+        position: absolute;
+        top: -12px;
+        right: -12px;
+        padding: 0;
+        border-radius: 5px;
+        padding: 2px 5px;
+        background-color: black;
+
+        .bi {
+            color: white;
+        }
+
+        img {
+            border-radius: 10px;
+        }
+    }
+}
